@@ -2,8 +2,7 @@ file_format: "1"
 id: strawberry_cream
 name: Strawberry Cream
 type: shield
-url: https://github.com/spencerrasmus/strawberry_cream-shield
+url: https://github.com/spencerrasmus/strawberry_cream
 requires: [pro_micro]
 features:
   - keys
-  - encoder
