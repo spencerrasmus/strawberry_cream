@@ -8,17 +8,17 @@
 
         default_layer {
             bindings = <
-                &kp B
+                &kp B #Top Row
                 &kp E
                 &kp LS(LC(N))
-                &kp I
+                &kp I #Middle Row
                 &kp L
                 &kp G
-                &kp LC(Z)
+                &kp LC(Z) #Bottom Row
                 &kp LS(LC(Z))
-                &kp 
-                &kp 
-                &kp 
+                &kp COMMA #Encoder Button
+                &kp LEFT_BRACKET #Encoder Left
+                &kp RIGHT_BRACKET #Encoder Right
             >;
         };
     };
